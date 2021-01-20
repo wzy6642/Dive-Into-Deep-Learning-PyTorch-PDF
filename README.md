@@ -117,9 +117,8 @@ CUDA Version==11.0
 
 
 ## 参考
-[Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
-
-[Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
+本书PyTorch实现：[Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)       
+本书TendorFlow2.0实现：[Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
 
 ## 原书地址
 中文版：[动手学深度学习](https://zh.d2l.ai/) | [Github仓库](https://github.com/d2l-ai/d2l-zh)       
