@@ -112,7 +112,7 @@
 matplotlib==3.3.2       
 torch==1.1.0       
 torchvision==0.3.0       
-torchtext==0.4.0
+torchtext==0.4.0       
 CUDA Version==11.0
 
 
