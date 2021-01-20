@@ -106,8 +106,22 @@
    * 9.13 本章附录
 ## 环境
 
+
 ## 参考
+[Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+[Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
 
 ## 原书地址
+中文版：[动手学深度学习](https://zh.d2l.ai/) | [Github仓库](https://github.com/d2l-ai/d2l-zh)       
+English Version: [Dive into Deep Learning](https://d2l.ai/) | [Github Repo](https://github.com/d2l-ai/d2l-en)
 
 ## 引用
+如果您在研究中使用了这个项目请引用原书:
+```
+@book{zhang2019dive,
+    title={Dive into Deep Learning},
+    author={Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola},
+    note={\url{http://www.d2l.ai}},
+    year={2020}
+}
+```
