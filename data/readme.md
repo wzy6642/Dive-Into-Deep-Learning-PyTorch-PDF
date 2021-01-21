@@ -6,3 +6,4 @@
 | 8.1 | cifar-10-python.tar.gz | https://pan.baidu.com/s/13YAO5OBVb3LvJhKUm5VX0Q | lujt |
 | 8.2 | hotdog.zip | https://pan.baidu.com/s/1R9MHWUnKVOYDxzg-qqeFOw | gn7l |
 | 8.6 | pikachu | https://pan.baidu.com/s/1YIBACwItNkK0RL2y6w8yFA | jlpa |
+| 8.9 | VOCtrainval_11-May-2012.tar | https://pan.baidu.com/s/14UVWMjrXG6_bdIFM0jlXbQ | zil5 |
