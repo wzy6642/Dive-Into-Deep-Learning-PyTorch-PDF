@@ -5,3 +5,4 @@
 | 6.3 | airfoil_self_noise.dat | https://pan.baidu.com/s/1hrOzh4BUnV3ssKqlBjPCTA | nxgi |
 | 8.1 | cifar-10-python.tar.gz | https://pan.baidu.com/s/13YAO5OBVb3LvJhKUm5VX0Q | lujt |
 | 8.2 | hotdog.zip | https://pan.baidu.com/s/1R9MHWUnKVOYDxzg-qqeFOw | gn7l |
+| 8.6 | pikachu | https://pan.baidu.com/s/1YIBACwItNkK0RL2y6w8yFA | jlpa |
