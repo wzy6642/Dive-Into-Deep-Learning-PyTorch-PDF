@@ -4,3 +4,4 @@
 | 5.3 | jaychou_lyrics.txt.zip | https://pan.baidu.com/s/1OADfemf76LsUJMg5_wrutw | lkg5 |
 | 6.3 | airfoil_self_noise.dat | https://pan.baidu.com/s/1hrOzh4BUnV3ssKqlBjPCTA | nxgi |
 | 8.1 | cifar-10-python.tar.gz | https://pan.baidu.com/s/13YAO5OBVb3LvJhKUm5VX0Q | lujt |
+| 8.2 | hotdog.zip | https://pan.baidu.com/s/1R9MHWUnKVOYDxzg-qqeFOw | gn7l |
