@@ -1,6 +1,6 @@
 # Dive-Into-Deep-Learning-PyTorch-PDF
 <div align=center>
-<img width="500" src="pdf/cover.png" alt="封面"/>
+<img width="500" src="img/cover.png" alt="封面"/>
 </div>
 
 ## 简介
