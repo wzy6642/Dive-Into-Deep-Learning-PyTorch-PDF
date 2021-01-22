@@ -4,7 +4,7 @@
 </div>
 
 ## 简介
-&emsp;&emsp;本项目对中文版《动手学深度学习》中的代码进行整理，并参考一些优秀的GitHub项目给出基于PyTorch的实现方法。为了方便阅读，本项目给出全书PyTorch版的PDF版本。欢迎大家Download，Star，Fork。除了原书内容外，我们还为每一章增加了本章附录，用于对该章节中用到的函数以及数学计算加以说明，除此之外还增加了语义分割网络（U-Net）的实现。书籍百度云链接：https://pan.baidu.com/s/1l8yDHVcB0FXPLH1nL542xA 密码：euqd       
+&emsp;&emsp;本项目对中文版《动手学深度学习》中的代码进行整理，并参考一些优秀的GitHub项目给出基于PyTorch的实现方法。为了方便阅读，本项目给出[全书PyTorch版的PDF版本](https://github.com/wzy6642/Dive-Into-Deep-Learning-PyTorch-PDF/tree/main/pdf)。欢迎大家Download，Star，Fork。除了原书内容外，我们还为每一章增加了本章附录，用于对该章节中用到的函数以及数学计算加以说明，除此之外还增加了语义分割网络（U-Net）的实现。书籍百度云链接：https://pan.baidu.com/s/1l8yDHVcB0FXPLH1nL542xA 密码：euqd       
 &emsp;&emsp;原书作者：阿斯顿·张、李沐、扎卡里 C. 立顿、亚历山大 J. 斯莫拉以及其他社区贡献者。
 
 ## 目录
